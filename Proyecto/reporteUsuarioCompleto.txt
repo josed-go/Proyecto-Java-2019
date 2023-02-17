@@ -1,0 +1,7 @@
+
+*******
+Los Datos Del Usuario  Jose
+El ID es: 0
+El Usuario es: Jose
+La Clave es: corp-car
+El Rol es: a
